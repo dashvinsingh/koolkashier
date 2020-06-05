@@ -1,5 +1,7 @@
 # koolkashier
-KoolKashier is a solution that came out of problem I saw in a small business. A lot of small businesses in South East Asia still resort to old fashion methods of "retailing". Receipts, accounting, and inventory management have all been on paper. As a computer science student at that time, I saw the opportunity to make an impact in the community. The lack of data collection mechanisms and technology usage in small businesses lead me to develop an iPad Based Point of Sale and Business Management platform for small retail businesses. This project has been in production for a local business since July 2017; since then, the business has been able to track their customers, make business decisions based on sales data collected and not to mention, they've gone from an all paper business to paper-only-when-required (i.e. printing thermal receipts) business. 
+KoolKashier is a solution that came out of problem I saw in a small business. A lot of small businesses in South East Asia still resort to old fashion methods of "retailing". Receipts, accounting, and inventory management have all been on paper. As a computer science student at that time, I saw the opportunity to make an impact in the community. The lack of data collection mechanisms and technology usage in small businesses lead me to develop an iPad Based Point of Sale and Business Management platform for small retail businesses.  
+
+This project has been in production for a local business since July 2017; since then, the business has been able to track their customers, make business decisions based on sales data collected and not to mention, they've gone from an all paper business to paper-only-when-required business(i.e. printing thermal receipts). 
 
 Check this project out at https://koolkashier.dashvin.me
 Check out the demo video at: https://koolkashier.dashvin.me/demo.mp4
@@ -16,5 +18,7 @@ There are two components to this solution, the front-end (iPad application and W
   - MySQL (Relational Database)
 
 # Snapshots
+## Ipad Application
+![Login](https://octodex.github.com/images/yaktocat.png | width=100)
 
 
