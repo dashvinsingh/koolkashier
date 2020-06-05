@@ -19,6 +19,6 @@ There are two components to this solution, the front-end (iPad application and W
 
 # Snapshots
 ## Ipad Application
-![Login](https://octodex.github.com/images/yaktocat.png | width=100)
+![]  (https://octodex.github.com/images/yaktocat.png)
 
 
