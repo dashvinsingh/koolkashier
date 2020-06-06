@@ -56,8 +56,14 @@ Just like the iPad application, the web application also provides the invoice vi
 <img src=./invoice.png width=400>
 
 #### Customer Dashboard
-One of the key plus points for this business is their ability to track how each customer was doing.
+One of the key plus points for this business is their ability to track how much each customer has spent at the store. This allowed the business owner to create promotions targeting each customer differently depending on the amount of money spent.  
 
+<img src=./customer.png width=400>
+
+## Next Steps
+This product was a solution to an underlying problem and we are looking to improve and add additional features to enhance the business operations.  
+
+If you're interested in checking out the demo, please reach out to me at **singh.dashvin [@] gmail.com**
 
 
 
